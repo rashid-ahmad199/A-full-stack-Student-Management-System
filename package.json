@@ -1,0 +1,17 @@
+{
+  "name": "student-management-system",
+  "version": "1.0.0",
+  "description": "Full Stack Student Management System (React, Node.js, Express, MongoDB)",
+  "private": true,
+  "scripts": {
+    "install-all": "npm install && npm install --prefix server && npm install --prefix client",
+    "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "seed": "npm run seed --prefix server",
+    "build": "npm run build --prefix client"
+  },
+  "author": "Rashid Ahmad",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
