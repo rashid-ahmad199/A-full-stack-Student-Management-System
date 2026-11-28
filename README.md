@@ -130,56 +130,38 @@ npm run dev
 
 ## 📸 Screenshots
 
-> Add your screenshots to the `screenshots/` folder with the names below.
-
 ### Register
 ![Register](screenshots/01-register.png)
-`[INSERT REGISTER SCREENSHOT HERE]`
 
 ### Login
 ![Login](screenshots/02-login.png)
-`[INSERT LOGIN SCREENSHOT HERE]`
 
 ### Dashboard (Desktop)
 ![Dashboard](screenshots/03-dashboard-desktop.png)
-`[INSERT DESKTOP DASHBOARD SCREENSHOT HERE]`
 
-### Students List
+### Students List (with pagination)
 ![Students](screenshots/04-students-list.png)
-`[INSERT STUDENTS LIST SCREENSHOT HERE]`
 
 ### Search
 ![Search](screenshots/05-search-results.png)
-`[INSERT SEARCH RESULTS SCREENSHOT HERE]`
 
-### Add Student and Validation
-![Add](screenshots/06-add-student.png)
+### Add Student
+![Add Student](screenshots/06-add-student.png)
+
+### Form Validation
 ![Validation](screenshots/07-form-validation.png)
-`[INSERT ADD STUDENT + VALIDATION SCREENSHOTS HERE]`
 
 ### Edit Student
 ![Edit](screenshots/08-edit-student.png)
-`[INSERT EDIT STUDENT SCREENSHOT HERE]`
 
 ### Student Details
 ![Details](screenshots/09-student-details.png)
-`[INSERT STUDENT DETAILS SCREENSHOT HERE]`
 
-### Delete (Admin)
-![Delete](screenshots/10-delete-confirm.png)
-`[INSERT DELETE CONFIRMATION SCREENSHOT HERE]`
-
-### Pagination
-![Pagination](screenshots/11-pagination.png)
-`[INSERT PAGINATION SCREENSHOT HERE]`
-
-### Mobile View
-![Mobile](screenshots/12-dashboard-mobile.png)
-`[INSERT MOBILE SCREENSHOT HERE]`
-
-### Database (MongoDB)
+### Database (MongoDB Atlas)
 ![MongoDB](screenshots/13-mongodb-data.png)
-`[INSERT MONGODB DATA SCREENSHOT HERE]`
+
+### Responsive Mobile View
+<img src="screenshots/12-dashboard-mobile.png" alt="Mobile dashboard" width="320" />
 
 ---
 

@@ -75,6 +75,7 @@ input.invalid { border-color: var(--danger); }
 .stat-card.orange { background: linear-gradient(135deg, #f59e0b, #d97706); }
 .stat-card.purple { background: linear-gradient(135deg, #8b5cf6, #6d28d9); }
 .two-col { display: grid; grid-template-columns: 3fr 2fr; gap: 18px; }
+.two-col > * { min-width: 0; }
 .bar-row { margin-bottom: 12px; }
 .bar-label { display: flex; justify-content: space-between; font-size: .85rem; margin-bottom: 3px; }
 .bar { background: #e5e7eb; border-radius: 99px; height: 8px; overflow: hidden; }
